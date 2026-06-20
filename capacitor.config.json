@@ -1,0 +1,11 @@
+{
+  "appId": "com.asiadawnbiocare.bms",
+  "appName": "Asia Dawn BMS",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "BackgroundGeolocation": {}
+  }
+}
